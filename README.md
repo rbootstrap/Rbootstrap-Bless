@@ -19,7 +19,7 @@ To begin using this template, choose one of the following options to get started
 * Uses version 4 of Bootstrap
 * Super Responsive
 * HTML Validated
-* Tested Across Firefox, Chrome, Safari, IE9, IE10, IE11, Edge
+* Tested Across Firefox, Chrome, Safari, IE10, IE11, Edge
 * Working PHP Contact Form
 * Code Tested in Bootlint
 * High Resolution
